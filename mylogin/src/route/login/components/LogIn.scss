@@ -1,0 +1,16 @@
+
+#login {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	form {
+		max-width: 300px;
+		box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+		padding: 20px;
+		text-align: center;
+		.action-btn{
+			margin: 5px;
+		}
+	}
+}
